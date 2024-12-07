@@ -1,2 +1,2 @@
-# LLK-teamwork
-大二上实训连连看小组项目
+# Bejeweled-teamwork
+大二上实训宝石迷阵小组项目
